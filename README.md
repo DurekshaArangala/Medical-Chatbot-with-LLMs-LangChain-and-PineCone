@@ -23,3 +23,11 @@ py -3.10 -m venv venv
 ```bash
 pip install -r requirements.txt
 ```
+
+### Techstack Used
+python
+LangChain
+Flask
+PineCone
+Ollama
+
